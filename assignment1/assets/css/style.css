@@ -1,0 +1,11 @@
+body {
+    background-color: #206fbe;
+}
+.card {
+    margin-top: 40px;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
