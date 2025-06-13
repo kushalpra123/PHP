@@ -1,7 +1,7 @@
 
 USE Kushal200606978;
 
-CREATE TABLE students (
+CREATE TABLE if not exists students (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
     grade VARCHAR(10) NOT NULL,
