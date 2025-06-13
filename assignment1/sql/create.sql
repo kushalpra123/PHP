@@ -1,5 +1,5 @@
-CREATE DATABASE student_portal;
-USE student_portal;
+CREATE DATABASE Kushal20060697814e;
+USE Kushal200606978;
 
 CREATE TABLE students (
     id INT AUTO_INCREMENT PRIMARY KEY,
